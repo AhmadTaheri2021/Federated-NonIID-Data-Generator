@@ -20,7 +20,7 @@ Federated learning scenarios often require datasets distributed unevenly (non-II
 To install and set up the repository, follow these steps:
 
 ```bash
-git clone https://github.com/your_username/Federated-NonIID-Data-Generator.git
+git clone https://github.com/AhmadTaheri2021/Federated-NonIID-Data-Generator.git
 cd Federated-NonIID-Data-Generator
 pip install -r requirements.txt
 ```
